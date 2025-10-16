@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Legal-Summarizer/static/css/main.5f16d0b9.css",
+    "main.js": "/Legal-Summarizer/static/js/main.b1947c9e.js",
+    "static/js/453.4f06a9a4.chunk.js": "/Legal-Summarizer/static/js/453.4f06a9a4.chunk.js",
+    "index.html": "/Legal-Summarizer/index.html",
+    "main.5f16d0b9.css.map": "/Legal-Summarizer/static/css/main.5f16d0b9.css.map",
+    "main.b1947c9e.js.map": "/Legal-Summarizer/static/js/main.b1947c9e.js.map",
+    "453.4f06a9a4.chunk.js.map": "/Legal-Summarizer/static/js/453.4f06a9a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f16d0b9.css",
+    "static/js/main.b1947c9e.js"
+  ]
+}
