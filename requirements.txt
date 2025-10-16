@@ -1,0 +1,39 @@
+# Web Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# AI/ML Models
+torch==2.1.0
+transformers==4.35.0
+openai-whisper==20230918
+
+# NLP
+spacy==3.7.2
+nltk==3.8.1
+
+# OCR
+pytesseract==0.3.10
+pdf2image==1.16.3
+Pillow==10.1.0
+opencv-python==4.8.1.78
+
+# Database
+pymongo==4.6.0  # Optional: for MongoDB
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.5.0
+numpy==1.26.2
+requests==2.31.0
+
+# Evaluation Metrics
+rouge-score==0.1.2
+nltk==3.8.1
+
+# CORS
+python-jose[cryptography]==3.3.0
+
+# Additional
+aiofiles==23.2.1
+python-dateutil==2.8.2
